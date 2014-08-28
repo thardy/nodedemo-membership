@@ -1,0 +1,13 @@
+{
+  "name": "nodedemo-membership",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshintt": "*",
+    "grunt-contrib-watch": "*",
+    "mocha": "^1.21.4",
+    "requirejs": "^2.1.14",
+    "should": "^4.0.4"
+  }
+}
